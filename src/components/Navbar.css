@@ -1,0 +1,17 @@
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .navbar li {
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .navbar li:hover {
+    color: #007bff;
+  }
+  
